@@ -7,4 +7,3 @@ const (
 	LUA_COPYRIGHT = "Copyright (C) 1994-2008 Lua.org, PUC-Rio"
 	LUA_AUTHORS = "R. Ierusalimschy, L. H. de Figueiredo & W. Celes"	
 )
-
